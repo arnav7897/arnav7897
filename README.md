@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠 Tech Stack
+<p align="center">
+
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B"/>
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
 <img src="https://img.shields.io/badge/Post‑Quantum Crypto-008080?style=flat"/>
-
+</p>
 ---
 
 ### 🚀 Featured Projects
