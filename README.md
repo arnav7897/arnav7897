@@ -59,10 +59,9 @@
 
 ---
 
+<!--
 ## 🏅 Badges & Programs (Coming Soon)
 
-<!-- Example -->
-<!--
 [![An image of @arnav7897's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnav7897)](https://holopin.io/@arnav7897)
 -->
 
