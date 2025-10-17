@@ -93,13 +93,6 @@
 
 ---
 
-<!-- 🧩 FUN FACTS -->
-## 🌌 Fun Fact Zone  
-> 💬 *"In cryptography we trust — because math never lies."*  
-> ☕ *Coffee + Code = Creativity 🔮*  
-> 💭 *Every bug fixed unlocks a new level of enlightenment!*
-
----
 
 <!-- 🌠 FOOTER -->
 <p align="center">
