@@ -47,9 +47,7 @@
 ---
 
 <!-- 💫 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBmZDR0ZXAyc3F2YjdxNmN4YjA1djVjZzA5b3BuaXQydDVocDdrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="100%" alt="Neon Flowlines" />
-</p>
+
 
 <!-- ⚡ GITHUB STATS -->
 ## ⚡ GitHub Insights
@@ -71,9 +69,7 @@
 <!-- 🔗 PROJECTS -->
 ## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2dDdsNWc4OHBod3Nvd3d5MzhnZGpwbHdndnQxajBuOTlpZmNsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Crypto Network Divider"/>
-</p>
+
 
 ### 🔐 [**ML-KEM Cryptosystem (FIPS 203)**](https://github.com/arnav7897/Module_lattice_Key_exchange_mechanism_FIPS-203)
 > Quantum-secure key exchange implementation in **C++** with IND-CCA2 transformation.  
