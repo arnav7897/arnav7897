@@ -84,7 +84,7 @@ Cloud Infrastructure
 
 ---
 
-## 🌐 Full Stack Developer Intern — The Red Arc
+## 🌐 Full Stack Developer Intern — TrainGrid
 
 * Developed full-stack applications.
 * Built frontend interfaces and backend APIs.
