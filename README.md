@@ -1,96 +1,127 @@
-<!-- 🌊 HEADER BANNER (Matrix Rain) -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh4ZmU2M2FiNjBzcWZmbW44dmdzOXF3d2s5cHY3eG53aWFzMnN1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WoWm8YzFQJg5i/giphy.gif" width="100%" alt="Matrix Rain" />
-</p>
+# Hi 👋 I'm Arnav Sharda
 
-<!-- ✨ TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🌐;Web3+%26+Crypto+Enthusiast+🔐;Open+Source+Contributor+🌍;Problem+Solver+🧩;Lifelong+Learner+📚" alt="Typing SVG" />
-</p>
+### Backend Engineer • AI Systems Developer • Cryptography Researcher
 
-<!-- 🧑‍💻 INTRO -->
-<h1 align="center">Hi 👋, I'm <span style="color:#6a11cb;">Arnav Sharda</span></h1>
-<h3 align="center">💻 B.Tech CSE @ IIITDM Kurnool | Cryptography Enthusiast | MERN Stack Developer</h3>
-
-<p align="center">
-  🔐 Working on <b>Post-Quantum Cryptography</b> & Secure APIs <br>
-  🌐 Building full-stack solutions using <b>React, Node.js & MongoDB</b> <br>
-  🧑‍💻 Always learning, always building, always evolving 🚀
-</p>
+🎓 B.Tech in Computer Science and Engineering at IIITDM Kurnool
+💼 AI Backend Intern at Antz AI
+🔐 Research Intern at IIT Bhilai working on Post-Quantum Cryptography
+🚀 Interested in Backend Systems, Distributed Computing, Applied AI and Security
 
 ---
 
-<!-- 🌌 NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kroim/profile-assets/main/gradient-divider.gif" width="100%" />
-</p>
+## 🚀 About Me
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:asharda7898@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arnav-sharda-bb281725a"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/arnav7897"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+* 🤖 Building AI systems, backend services and scalable APIs
+* ⚙️ Interested in distributed systems, infrastructure and backend engineering
+* 🔐 Exploring post-quantum cryptography and secure system design
+* 📚 Competitive programmer and continuous learner
 
 ---
 
-<!-- 🧠 TECH STACK -->
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,mongodb,docker,git,linux,vscode" />
-</p>
+## 💼 Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Post--Quantum%20Crypto-008080?style=for-the-badge&logoColor=white"/>
-</p>
+### AI Backend Intern | Antz AI
+
+* Worked on enterprise AI workflows and project management automation systems.
+* Contributed to backend APIs, RBAC implementation, Azure Key Vault integration and testing infrastructure.
+* Performed regression, integration and load testing for production services.
+* Worked with FastAPI, PostgreSQL, Redis, Docker, Celery and Azure services.
+
+### Research Intern | IIT Bhilai
+
+* Worked on implementation and analysis of the ML-KEM post-quantum cryptographic standard (FIPS-203).
+* Studied lattice-based cryptography and quantum-resistant key exchange mechanisms.
+* Implemented cryptographic primitives and evaluated performance characteristics.
+
+### Full Stack Developer Intern | The Red Arc
+
+* Contributed to full-stack application development using modern web technologies.
+* Worked across frontend components, APIs and database integration.
 
 ---
 
-<!-- 💫 ANIMATED DIVIDER -->
+## 🛠️ Tech Stack
 
+**Languages:**
+C, C++, Python, JavaScript, TypeScript, SQL, Bash
 
-<!-- ⚡ GITHUB STATS -->
-## ⚡ GitHub Insights
+**Backend & Infrastructure:**
+FastAPI, Node.js, Express.js, REST APIs, WebSockets, PostgreSQL, MongoDB, Redis, Celery, Docker, Nginx, AWS EC2, Linux, Git
+
+**AI & Machine Learning:**
+LangChain, LlamaIndex, LangGraph, RAG Pipelines, Vector Databases, Multi-Agent Systems, PyTorch, TensorFlow, Scikit-Learn
+
+**Frontend:**
+React.js, Next.js, Tailwind CSS
+
+**Security & Cryptography:**
+Post-Quantum Cryptography, ML-KEM, Blind Signatures, Secure API Design
+
+---
+
+## 🌟 Featured Projects
+
+### 🗄️ CoreDB — SQL Analytics Database Engine
+
+* Built a custom SQL database engine with lexer, parser and execution layers.
+* Supports analytical queries including COUNT, SUM, AVG and GROUP BY.
+* Handles 100+ concurrent requests with sub-100ms query execution.
+
+**Tech:** FastAPI, React, Python
+
+---
+
+### 🎤 SpeakSnap — AI Meeting Companion
+
+* AI-powered meeting assistant for transcription and summarization.
+* Extracts action items and provides searchable meeting knowledge.
+
+**Tech:** Python, LLMs, Vector Databases, Speech APIs
+
+---
+
+### 📊 CPTracker
+
+* Competitive programming analytics platform for IIITDM Kurnool students.
+* Aggregates statistics from LeetCode, Codeforces and CodeChef.
+
+**Tech:** MERN Stack, REST APIs, Chart.js
+
+---
+
+### 🔐 ML-KEM Cryptosystem (FIPS-203)
+
+* Implementation of the NIST standardized post-quantum key encapsulation mechanism.
+* Includes IND-CCA2 secure transformation and module lattice cryptography primitives.
+
+**Tech:** C++, Cryptography
+
+---
+
+### ✍️ Blind Schnorr Signature
+
+* Privacy-preserving blind signature implementation with modular arithmetic and randomness abstraction.
+
+**Tech:** Python, Cryptography
+
+---
+
+## 🏆 Achievements
+
+🏅 Reliance Foundation Scholar
+🏅 Top 50 Finalist — AlgoArena Hackathon
+🏅 Research Intern — IIT Bhilai
+🏅 AI Backend Intern — Antz AI
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnav7897&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav7897&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7897&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav7897&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
-</p>
-
 ---
 
-<!-- 🔗 PROJECTS -->
-## 🌟 Featured Projects
-
-
-
-### 🔐 [**ML-KEM Cryptosystem (FIPS 203)**](https://github.com/arnav7897/Module_lattice_Key_exchange_mechanism_FIPS-203)
-> Quantum-secure key exchange implementation in **C++** with IND-CCA2 transformation.  
-> *Category:* Cryptography • *Tech:* C++ / Polynomial Arithmetic / Modular Lattices  
-
----
-
-### 📊 [**CPTracker**](https://github.com/arnav7897/cptracker)
-> MERN-based dashboard tracking CP stats across **LeetCode**, **Codeforces**, and **CodeChef** for IIITDM Kurnool students.  
-> *Category:* Web App • *Tech:* MERN Stack / REST APIs / Chart.js  
-
----
-
-### 🖋️ [**Blind Schnorr Signature**](https://github.com/arnav7897/blind_schnorr_implementation)
-> Python implementation of the **Blind Schnorr Signature Scheme** with modular arithmetic & randomness abstraction.  
-> *Category:* Cryptography • *Tech:* Python / Hash Functions / Signature Schemes  
-
----
-
-
-<!-- 🌠 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
+> Interested in backend engineering, AI systems, cryptography and building reliable software at scale.
